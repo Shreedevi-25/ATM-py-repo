@@ -1,16 +1,20 @@
-ATM Simulation Program
+## __ATM Simulation Program__
+
 This Python program simulates the key functionalities of an Automated Teller Machine (ATM). It allows users to perform essential banking tasks, such as checking their balance, withdrawing or depositing funds, changing their PIN, and reviewing their transaction history. The program is designed to offer an intuitive interface for performing these operations.
 
-Features
-Balance Check: View the current balance in the account.
-Withdraw Cash: Withdraw a specified amount from the account, provided sufficient funds are available.
-Deposit Cash: Deposit an amount into the account and update the balance.
-Change PIN: Securely change the user's PIN after providing the correct existing PIN.
-Transaction History: View a record of all transactions performed during the session, including deposits and withdrawals.
-How to Use
-Check Balance: Select the option to check the balance, which will display the current balance.
-Withdraw Cash: Enter the amount to withdraw; the program ensures you have enough balance to complete the withdrawal.
-Deposit Cash: Enter the amount to deposit; the balance will be updated accordingly.
-Change PIN: The user must enter the current PIN followed by the new PIN (which must be a 4-digit number).
-Transaction History: View a log of all the transactions that have been made during the session.
-Exit: End the program once you're done with all desired actions.
+## Features
+
+- **Balance Check:** View the current balance in the account.
+- **Withdraw Cash:** Withdraw a specified amount from the account, provided sufficient funds are available.
+- **Deposit Cash:** Deposit an amount into the account and update the balance.
+- **Change PIN:** Securely change the user's PIN after providing the correct existing PIN.
+- **Transaction History:** View a record of all transactions performed during the session, including deposits and withdrawals.
+
+## How to Use
+
+- **Check Balance:** Select the option to check the balance, which will display the current balance.
+- **Withdraw Cash:** Enter the amount to withdraw; the program ensures you have enough balance to complete the withdrawal.
+- **Deposit Cash:** Enter the amount to deposit; the balance will be updated accordingly.
+- **Change PIN:** The user must enter the current PIN followed by the new PIN (which must be a 4-digit number).
+- **Transaction History:** View a log of all the transactions that have been made during the session.
+- **Exit:** End the program once you're done with all desired actions.
